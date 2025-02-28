@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program8MDI", "Program8MDI.csproj", "{EE7D41AD-761F-4E26-BCB0-61E3CA37034F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7D41AD-761F-4E26-BCB0-61E3CA37034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7D41AD-761F-4E26-BCB0-61E3CA37034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7D41AD-761F-4E26-BCB0-61E3CA37034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7D41AD-761F-4E26-BCB0-61E3CA37034F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {525CC69D-F60B-4DBB-ABB6-E2E266546811}
+	EndGlobalSection
+EndGlobal

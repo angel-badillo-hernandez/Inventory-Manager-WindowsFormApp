@@ -1,0 +1,16 @@
+C:\Users\luigi\source\repos\Program8MDI\bin\Debug\Program8MDI.exe.config
+C:\Users\luigi\source\repos\Program8MDI\bin\Debug\Program8MDI.exe
+C:\Users\luigi\source\repos\Program8MDI\bin\Debug\Program8MDI.pdb
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.csproj.AssemblyReference.cache
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.InventoryFormMDI.resources
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.Properties.Resources.resources
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.csproj.GenerateResource.cache
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.csproj.CoreCompileInputs.cache
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.exe
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.pdb
+C:\Users\luigi\source\repos\Program8MDI\bin\Debug\ItemForm.dll
+C:\Users\luigi\source\repos\Program8MDI\bin\Debug\ItemForm.pdb
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.csproj.CopyComplete
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.InputDataForm.resources
+C:\Users\luigi\source\repos\Program8MDI\obj\Debug\Program8MDI.StoreForm.resources

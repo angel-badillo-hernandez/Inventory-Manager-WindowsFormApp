@@ -1,0 +1,8 @@
+C:\Users\luigi\source\repos\ItemForm\bin\Debug\ItemForm.dll
+C:\Users\luigi\source\repos\ItemForm\bin\Debug\ItemForm.pdb
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.csproj.AssemblyReference.cache
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.ItemForm.resources
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.csproj.GenerateResource.cache
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.csproj.CoreCompileInputs.cache
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.dll
+C:\Users\luigi\source\repos\ItemForm\obj\Debug\ItemForm.pdb
